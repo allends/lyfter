@@ -16,4 +16,4 @@ Lyfter is an app-based personal vehicle system (i.e., ride-hailing), and they ap
 
 ## Technologies
 
-**C++**: We will be using C++ for the coding section of this project.
+*C++*: We will be using C++ for the coding section of this project.
